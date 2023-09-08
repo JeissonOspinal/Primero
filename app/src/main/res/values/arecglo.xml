@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lista">
+        <item>Buseta</item>
+        <item>Camioneta</item>
+        <item>Coche</item>
+        <item>Cicla</item>
+    </string-array>
+
+</resources>
